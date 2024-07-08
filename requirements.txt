@@ -1,0 +1,8 @@
+vosk==0.3.31
+pyaudio
+pydub==0.25.1
+gtts==2.2.3
+requests
+fire
+python-telegram-bot==13.7
+llama-cpp-python
