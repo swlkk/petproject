@@ -14,7 +14,7 @@ from telegram import Update, ForceReply, Audio
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # ТГ токен
-TELEGRAM_TOKEN = '6831119995:AAFVihds8S_MznC4rElOKbB-DmeH_4FWCqk'
+TELEGRAM_TOKEN = 'токен вставить сюда'
 
 SYSTEM_PROMPT = "Ты помощник, помоги пожалуйста человеку с ответом на его вопрос"
 SYSTEM_TOKEN = 1788
